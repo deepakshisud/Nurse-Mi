@@ -23,7 +23,7 @@ If you click no, it will move on to other symptom.
 
 ![Diagnosis](/static/Diagnosis.png)
 
-##Limitations :
+## Limitations :
 * Only one diagnosis is checked
 * Offline environment
 
