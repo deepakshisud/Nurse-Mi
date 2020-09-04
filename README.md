@@ -3,5 +3,5 @@ A medical chatbot that suggests home remedies and doctor visits for certain dise
 
 **Login/Register page:**
 
-![Front](https://github.com/deepakshisud/Nurse-Mi/tree/master/static/Login.png)
+![Login](/static/Login.png)
 
