@@ -27,3 +27,5 @@ If you click no, it will move on to other symptom.
 * Only one diagnosis is checked
 * Offline environment
 
+## Acknowledgements:
+vishalkumarsrivastava
