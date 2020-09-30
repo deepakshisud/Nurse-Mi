@@ -10,7 +10,8 @@ def destroyPackWidget(parent):
         e.destroy()
 def register():
     global root,register_screen
-    
+
+#Adding a comment
     destroyPackWidget(root)
     register_screen=root
 #    register_screen = Toplevel(main_screen)
