@@ -3,7 +3,7 @@ A medical chatbot that suggests home remedies and doctor visits for certain dise
 
 ## Building the application 
 * Python to write the code along with the help of machine learning concepts.
-* For the backend part of the project decision trees(usin**Sklearn library**) are used to test the model and make sure it follows through each decision and moves onto the next one. 
+* For the backend part of the project decision trees( using **Sklearn library**) are used to test the model and make sure it follows through each decision and moves onto the next one. 
 * Now for the front-end part of the project, **tkinter** is used which is the standard GUI library for Python. Making the use of the message box, the application will be able to run on the system itself instead of the net.
 
 
